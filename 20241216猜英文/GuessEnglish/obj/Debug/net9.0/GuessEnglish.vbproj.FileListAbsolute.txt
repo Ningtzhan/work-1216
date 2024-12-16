@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\bin\Debug\net9.0\GuessEnglish.exe
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\bin\Debug\net9.0\GuessEnglish.deps.json
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\bin\Debug\net9.0\GuessEnglish.runtimeconfig.json
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\bin\Debug\net9.0\GuessEnglish.dll
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\bin\Debug\net9.0\GuessEnglish.pdb
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\GuessEnglish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\GuessEnglish.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\GuessEnglish.AssemblyInfo.vb
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\GuessEnglish.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\GuessEnglish.dll
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\refint\GuessEnglish.dll
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\GuessEnglish.pdb
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\GuessEnglish.genruntimeconfig.cache
+C:\Users\USER\Desktop\Soul\vscode\20241216猜英文\GuessEnglish\obj\Debug\net9.0\ref\GuessEnglish.dll
